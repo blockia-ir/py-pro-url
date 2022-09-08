@@ -15,7 +15,7 @@ Create By Hossein Pira
 - [installation video](http://orabel.ir/url-pro-uploader.mp4)
 
 
-# install on ocally/VPS
+# install on Locally/VPS
 ```
 git clone https://github.com/blockia-ir/py-pro-url
 
