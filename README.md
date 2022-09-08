@@ -6,6 +6,6 @@ Bot using pyrogram libray!
 
 
 
-- [Run To Heroku](https://heroku.com/deploy?template=https://github.com/blockia-ir/py-url-pro)
+- [Run To Heroku](https://heroku.com/deploy?template=https://github.com/blockia-ir/py-pro-url)
 
 - [Telegram](https://t.me/h3dev)
