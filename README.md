@@ -10,9 +10,12 @@ Create By Hossein Pira
 
 - [Run To Heroku](https://heroku.com/deploy?template=https://github.com/blockia-ir/py-pro-url)
 
-- [Telegram](https://t.me/h3dev)
+- [Developer Telegram Id](https://t.me/h3dev)
+
+- [Demo Project](https://t.me/freeprourlbot)
 
 - [installation video in heroku](http://orabel.ir/url-pro-uploader.mp4)
+
 - [installation video in vps](https://orabel.ir/install-in-vps.mp4)
 
 
