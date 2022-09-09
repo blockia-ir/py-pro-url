@@ -12,7 +12,8 @@ Create By Hossein Pira
 
 - [Telegram](https://t.me/h3dev)
 
-- [installation video](http://orabel.ir/url-pro-uploader.mp4)
+- [installation video in heroku](http://orabel.ir/url-pro-uploader.mp4)
+- [installation video in vps](https://orabel.ir/install-in-vps.mp4)
 
 
 # install on Locally/VPS
