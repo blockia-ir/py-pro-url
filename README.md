@@ -72,7 +72,7 @@ fot edit bot texts , you need to click the fork option in the project .
 and go to Uploader/script.py and edit texts .
 
 And then open the link below to run it in your repository.
-Attention, put the address of your repository instead of the xxx sign.
+Attention, put the address of your repository instead of the (xxx) sign.
 <pre>
 https://heroku.com/deploy?template=xxx
 </pre>
