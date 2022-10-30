@@ -16,7 +16,7 @@ Create By Hossein Pira
 
 - [installation video in heroku](http://bioig.ir/url-pro-uploader.mp4)
 
-- [installation video in vps](https://bioig.ir/install-in-vps.mp4)
+- [installation video in vps](http://bioig.ir/install-in-vps.mp4)
 
 
 # install on Locally/VPS
